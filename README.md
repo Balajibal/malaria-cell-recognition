@@ -1,7 +1,7 @@
-### EXP NO: 04
+### EX NO : 04
+### DATE  : 15.10.2022
+# <p align="center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
 
-
-# <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
 ## AIM
 
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
